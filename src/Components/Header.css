@@ -1,0 +1,20 @@
+
+.header{
+    background-color: #1C2B35;
+    padding: 10px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a {
+    text-decoration: none;
+    margin-right: 20px;
+    color :white;
+    font-size: 18px;
+}
+nav a:hover{
+    color:orange;
+    /* transition-duration: 3s; */
+    /* background-color: gray; */
+    /* padding: 5px; */
+}
