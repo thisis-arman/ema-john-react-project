@@ -1,0 +1,7 @@
+.cart {
+    border: 1px solid lightblue;
+    padding: 20px 10px;
+    background-color: rgba(248, 248, 255, 0.288);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px lightblue;
+}

@@ -10,3 +10,10 @@
     margin: 20px;
 
 }
+.cart-container{
+    background-color: bisque;
+    padding: 20px 30px;
+    height: 100vh;
+    position: sticky;
+    top: 0px;
+}
